@@ -1,0 +1,13 @@
+On Application Start: Login Screen
+On Successful Login: Main UI Screen
+MAIN UI:
+	-Discounts
+	-Check Inventory
+	-Replenish Stock
+	-Member Registration
+	-Add Product
+	-Add Category
+	-Buy Product
+		-Check Out 
+		-Make Payment
+	-Reports
